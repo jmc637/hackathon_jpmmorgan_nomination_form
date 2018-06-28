@@ -23,3 +23,7 @@ h2 {
 .candidate-sponsers > div {
   margin: 0 5px;
 }
+
+.candidate-sponsers > .section-header {
+  margin: 20px 0px;
+}
