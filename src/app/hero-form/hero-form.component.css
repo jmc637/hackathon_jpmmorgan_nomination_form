@@ -1,0 +1,25 @@
+.section-header {
+  margin: 20px 0px;
+}
+
+.col-form-label {
+  font-weight: 500;
+}
+
+.checkboxes {
+  padding-top: 15px;
+}
+
+.section {
+  padding: 0 10px;
+  border-style: solid;
+  border-width: .5px;
+}
+
+h2 {
+  /*padding-left: 10px !important;*/
+}
+
+.candidate-sponsers > div {
+  margin: 0 5px;
+}
