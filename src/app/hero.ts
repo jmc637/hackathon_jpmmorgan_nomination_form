@@ -1,0 +1,60 @@
+export class Hero {
+
+  constructor(
+    public id: number,
+    public name: string,
+    public power: string,
+    public alterEgo?: string
+  ) {  }
+
+  // constructor(
+  //   public candidateName: string,
+  //   public lob: string,
+  //   public candidateSid: string,
+  //   public jobFamily: string,
+  //   public futureJobFamily: string,
+  //   public managerSid: string,
+  //   public region: string,
+  //   public ctoName: string,
+  //   public city: string,
+  //   public yearsAtJpmc: string,
+  //   public vpInYears: string,
+  //   public directReports: string,
+  //   public yearsInCurrentRole: string,
+  //   public IndustryExperience: string,
+  //   public matrixReports: string,
+  //   public roleType: string,
+  //   public headcount: string,
+  //   public edProcessNomination1: string,
+  //   public edProcessNomination2: string,
+  //   public year: string,
+  //   public feedback: string,
+  //   public currentRoleAndResponsibilities: string,
+  //   public peers: string,
+  //   public sponsor1Name: string,
+  //   public sponsor2Name: string,
+  //   public sponsor3Name: string,
+  //   public sponsor1sid: string,
+  //   public sponsor2sid: string,
+  //   public sponsor3sid: string,
+  //   public sponsor1level: string,
+  //   public sponsor2level: string,
+  //   public sponsor3level: string,
+  //   public sponsor1role: string,
+  //   public sponsor2role: string,
+  //   public sponsor3role: string,
+  //   public sponsor1rel: string,
+  //   public sponsor2rel: string,
+  //   public sponsor3rel: string,
+  //   public sponsor1phone: string,
+  //   public sponsor2phone: string,
+  //   public sponsor3phone: string,
+  //   public businessResults: string,
+  //   public riskAndControls: string,
+  //   public teamWorkAndLeadership: string,
+  //   public clientCustomerFocus: string,
+  //   public nameAndSign: string,
+  //   public date: string
+  // ) {  }
+
+}
